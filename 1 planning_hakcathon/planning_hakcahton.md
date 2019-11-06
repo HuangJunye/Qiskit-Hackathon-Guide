@@ -13,7 +13,6 @@ Example: Qiskit Hackathon @ SG
 - quantum algorithms
 - quantum applications
 
-
 ### Organising Committee
 roles
 - logistics (food, venue)
@@ -26,7 +25,6 @@ Example #qiskithackathonsg for Qiskit Hackathon @ Singapore
 
 ### Legal Agreement
 you need sign legal agreement with qiskit in order to receive swag and prizes provided by qiskit.
-
 
 ## Participants
 The first thing you need to decide is the number of participants. In the university level, 20-50 people is a reasonable size. You can think in terms of number of teams. A team consist of 3-5 people, with 4 people on average. Example, 40 people means about 10 teams. You should also take into account that there will always 10-20% people decide not to go in the last minute.
