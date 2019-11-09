@@ -12,9 +12,6 @@ Check out past Qiskit hackathons to have better ideas.
 1. [MSU-IBM Quantum Computing Bootcamp with Qiskit]()
 
 ## Steps
-
-
-
 1. planning
 1. marketing
 1. running
