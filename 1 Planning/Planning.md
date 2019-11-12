@@ -1,4 +1,4 @@
-# How to plan a Qiskit Hackathon
+# Planning
 
 
 ## Branding
