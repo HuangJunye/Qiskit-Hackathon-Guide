@@ -1,5 +1,32 @@
 # Planning
 
+## What do you need?
+
+Organizing a hackathon can seem very overwhelming. You will need many things:
+
+- organizing team, to plan and run the event
+- participants, to attend the event
+- speakers, to conduct workshops
+- coaches, to help participants during hacking sessions
+- judges, to decide winning teams
+- venue, to host the event
+- food, for participants
+- funding, to pay for the cost of venue, food and other expenses
+
+But don't be afraid. This guide is here to help you settle everything for a successful hackathon!
+
+## How to get started?
+
+### Find a team
+The best advice we can give you to start planning a Qiskit Hackathon is: find an organizing team. You should look for at least one person, who is equally passionate about quantum computing as yourself to form an organizing team. Having a group to rely on, delegate work to, and bounce ideas between becomes invaluable once you get into the nitty gritty details.
+
+### Talk to Qiskit
+After forming an organizing team, you can start a conversation with Qiskit (email: hello@qiskit.camp) to express your interest to organize a local Qiskit Hackathon. Qiskit community team will give you advice on how to proceed forward.
+
+### Talk to University
+At the same time, you can start a conversation with relevant department or institute (quantum center, department of physics, chemistry or computer science) in your university about hosting the potential Qiskit Hackathon. Ask for their support: venue, funding and logistics, etc.
+
+From here, you can link up Qiskit community team and the University to kickstart the official discussion!
 
 ## Branding
 Event name: Qiskit Hackathon @ (City or University)
