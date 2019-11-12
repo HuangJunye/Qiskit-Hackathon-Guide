@@ -1,6 +1,6 @@
 # Schedule
 | Day 1         |                                   |                           |
-|:-------------:|:---------------------------------:|                           |
+|:-------------:|:---------------------------------:|:--------------------------------------------------:|
 | 09:00 - 09:45 | Registration                      |                           |
 | 09:45 - 10:00 | Welcome                           |Explain logistics, schedule|
 | 10:00 - 12:30 | Workshops                         |QC basics, Qiskit basics, Qiskit applications       |
