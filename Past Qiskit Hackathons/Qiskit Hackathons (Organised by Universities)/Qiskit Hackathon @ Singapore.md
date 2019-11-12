@@ -10,9 +10,10 @@
    - [QRAKEN](https://github.com/HermanniH/QRAKEN): Quantum RAndom Keys via ENtanglement, a certified quantum random number generator using entanglement.
    - [Implementing entangled measurements for speeding up VQE](https://github.com/xavierwwj/qiskit-aqua/tree/master/pauli_graph_tutorial)
    - [Quantum games for finding multiple counterfeit coins](https://github.com/qiskit-community/qiskit-hackathon-singapore-19/issues/15)
-   - [Direct Randomized Benchmarking](https://github.com/Supanut-Thanasilp/Direct-Randomzied-Benchmarking-using-Qiskit)
-   - [Qubit Tic-Tac-Toe](https://github.com/honlin96/Qubit-Tic-Tac-Toe)
+   - [Direct Randomized Benchmarking](https://github.com/Supanut-Thanasilp/Direct-Randomzied-Benchmarking-using-Qiskit): implement direct randomized benchmarking protocol in Qiskit
+   - [Qubit Tic-Tac-Toe](https://github.com/honlin96/Qubit-Tic-Tac-Toe): a quantum tic-tac-toe game for quantum mechanics and quantum programming education
    - [Solve optimization problems with a DOcplex translator](https://github.com/qiskit-community/qiskit-hackathon-singapore-19/issues/5)
+
 - Recap articles:
    - [by Centre for Quantum Technologies](https://www.quantumlah.org/about/highlight.php?id=341)
    - [by Anurag Saha Roy](https://medium.com/qiskit/roundup-of-qiskit-hackathon-singapore-de651921f2cd)
