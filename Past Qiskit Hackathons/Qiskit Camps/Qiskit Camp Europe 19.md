@@ -2,6 +2,9 @@
 
 - Event page: https://qiskit.camp/
 - Github page: https://github.com/qiskit-community/qiskit-camp-europe-19
-- Projects: https://github.com/qiskit-community/qiskit-camp-europe-19/issues?q=is%3Aopen+is%3Aissue
-- [Recap article](https://medium.com/qiskit/recap-2019-qiskit-camp-europe-908c8d8d72e4)
+- Projects: [All open issues](https://github.com/qiskit-community/qiskit-camp-europe-19/issues?q=is%3Aopen+is%3Aissue) (placeholder)
+- Recap articles: 
+  - [by Qiskit](https://medium.com/qiskit/recap-2019-qiskit-camp-europe-908c8d8d72e4)
+  - [by Amira Abbas](https://medium.com/qiskit/qiskit-camp-101-b386e9377e4f)
+  - [by Desiree Vogt-Lee](https://desireevl.com/posts/qcamp-europe)
 - [Recap video](https://www.youtube.com/watch?v=in21Vaaz5-c)
