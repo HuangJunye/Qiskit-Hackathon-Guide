@@ -1,4 +1,4 @@
-# Qiskit Camp 19
+# Qiskit Camp Europe 19
 
 - Event page: https://qiskit.camp/
 - Github page: https://github.com/qiskit-community/qiskit-camp-europe-19
