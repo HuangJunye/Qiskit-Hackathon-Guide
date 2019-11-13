@@ -3,5 +3,27 @@
 - Event page: https://qiskit.camp/
 - Github page: N/A
 - Projects:
-- [Recap article](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179)
-- [Recap video](https://www.youtube.com/watch?v=o2DNEhAKJeo&feature=emb_title)
+  - [Writing standardized benchmarks](https://github.com/eddieschoute/circuit-benchmarks)
+  - [Q-music](https://github.com/alexiskirke/q-music)
+  - [Optimization for UCCSD](https://github.com/m24639297/UCCSD-optimization): A modified method of optimization when doing UCCSD calculation for quantum chemistry on quantum processor.
+  - [Centered QFT](https://github.com/agudipaolo/cqft)
+  - [Optimization for Quantum Chemistry Circuits](https://github.com/kanavsetia/qiskitcamp)
+  - [Library of Circuits for Arithmetic](https://github.com/hkhetawat/QArithmetic): Arithmetic library for IBM Qiskit.
+  - [Noise Mitigation](https://github.com/HarshBabla99/IBMQiskitCamp_ErrorMitigation)
+  - [Quantum Art Generation](https://github.com/MoizAhmedd/piqasso): Quantum Image Generator https://www.piqasso.ml.
+  - [Bayesian Tomography](https://github.com/matteoacrossi/bayesian-tomography): Bayesian tomography for qiskit-ignis.
+  - [Quantum Flappy Game](https://github.com/lukasszz/FlappyQ): Quantum FlappyQat.
+  - [Quantum Pong](https://github.com/HuangJunye/QPong): A quantum version of the classic Pong using Qiskit and pygame.
+  - [A Quantum Walk](https://github.com/desireevl/quantum_walk)
+  - [Emulating Braiding on an Ising chain](https://github.com/ShabaniLab/qiskit-hackaton-2019): Emulation of Majorana fermions braiding on an Ising chain.
+  - [Max-cut with Grover](https://github.com/msramalho/grover-max-cut): Implementation of a new Quantum Oracle for solving the Max-Cut Problem with Grover Search Algorithm.
+  - [QAOA and graph coloring](https://github.com/apozas/qaoa-color): Using QAOA for solving the graph coloring problem.
+  - [Shor’s Algorithm](https://github.com/lialkaas/qiskit-shors): Shor's Algorithm for factoring large integers using combination of Classical and Quantum Computing Algorithms.
+  - W-state generation & performance
+  - [Extending the tomography modules](https://github.com/AdrianTanTeckKeng/qiskit-ignis)
+  - [Approximating Continuous-Variables on Qiskit](https://github.com/steffencruz/FockWits)
+  - [Methods for state preparation via Quantum compression](https://github.com/BryceFuller/qiskit_camp): State preparation via Quantum compression.
+- Recap articles:
+  - [by Qiskit](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179)
+- Recap videos:
+  - [by Qiskit](https://www.youtube.com/watch?v=o2DNEhAKJeo&feature=emb_title)
