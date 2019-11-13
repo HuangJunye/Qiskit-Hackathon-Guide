@@ -27,3 +27,4 @@
   - [by Qiskit](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179)
 - Recap videos:
   - [by Qiskit](https://www.youtube.com/watch?v=o2DNEhAKJeo&feature=emb_title)
+  - Talks[Playlist by Qiskit](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqbWdrqO-EghWaNWOm_HHKF)
