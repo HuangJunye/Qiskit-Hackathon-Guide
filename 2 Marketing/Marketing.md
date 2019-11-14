@@ -22,11 +22,23 @@ You can also build an website for the event if you are confident with web design
 | Interest groups        | quantum, machine learning | email             |
 | Social media           | Twitter, Facebook groups  | social media post |
 
-## Selection criteria
+You can find templates for poster, email and social media post under the `Marketing` folder.
 
+## Registration
 
-How to select participants?
-1. first come first serve
-1. select based on background
+In general there are three different ways to select participants
 
-Tools: AirTable or Google Forms
+| Methods           | Pros                             | Cons                                                                                           |
+|-------------------|----------------------------------|------------------------------------------------------------------------------------------------|
+| invite-only       | high quality participants        | too exclusive, hard to achieve diversity, difficult to find enough participants for invitation |
+| open registration | easy to find enough participants | not selective, difficult to ensure the quality of participants                                 |
+| screening         | selectivity                      | time-consuming and difficult to do screening                                                   |
+
+Suggestion: a hybrid method:
+1. invite 30% participants
+1. target ideal mixture via marketing
+1. open registration to fill remaining spots
+
+We recommend to use Eventbrite to handle registration. You can create a private page for invite-only events at the beginning and switch it to public for open registration later on.
+
+You can also use online survey tools to handle registration such as AirTable and Google Forms.
