@@ -37,23 +37,27 @@ Deadline to register - 4th October 2019 (Friday)- [Registration closed due to ov
 
 ## Schedule
 
-| **Day 1 (11 Oct)** |                                                                                                                                                                                                                         |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 09:00          | Registration                                                                                                                                                                                                            |
-| 09:30 - 12:00  | Welcome and Kick-off Tutorials  - Quantum Computing 101 by Dimitris Angelakis - Introduction to Qiskit by Luciano Bello - Quantum machine learning and algorithms by Rudy Raymond - Making quantum games by Junye Huang |
-| 12:00 - 13:00  | Lunch                                                                                                                                                                                                                   |
-| 13:00 - 14:00  | Brainstorming & Team forming                                                                                                                                                                                            |
-| 14:00 - 18:00  | Hacking Session 1                                                                                                                                                                                                       |
-| 18:00 - 19:00  | Dinner                                                                                                                                                                                                                  |
-| 19:00 - 20:00  | Hacking Session 2                                                                                                                                                                                                       |
-|                |                                                                                                                                                                                                                         |
-| **Day 2 (12 Oct)** |                                                                                                                                                                                                                         |
-| 08:30 - 12:00  | Hacking Session 3                                                                                                                                                                                                       |
-| 12:00 - 13:00  | Lunch                                                                                                                                                                                                                   |
-| 13:00 - 15:30  | Final session of hacking                                                                                                                                                                                                |
-| 15:00 - 17:00  | Team Demos                                                                                                                                                                                                              |
-| 17:00 - 18:00  | Closing ceremony                                                                                                                                                                                                        |
-| 18:00 - 19:00  | Closing networking event & snacks                                                                                                                                                                                       |
+| Day 1 (11 Oct) |                                                           |
+|----------------|-----------------------------------------------------------|
+| 09:00          | Registration                                              |
+| 09:30 - 12:00  | Welcome and Kick-off Tutorials                            |
+|                | - Quantum Computing 101 by Dimitris Angelakis             |
+|                | - Introduction to Qiskit by Luciano Bello                 |
+|                | - Quantum machine learning and algorithms by Rudy Raymond |
+|                | - Making quantum games by Junye Huang                     |
+| 12:00 - 13:00  | Lunch                                                     |
+| 13:00 - 14:00  | Brainstorming & Team forming                              |
+| 14:00 - 18:00  | Hacking Session 1                                         |
+| 18:00 - 19:00  | Dinner                                                    |
+| 19:00 - 20:00  | Hacking Session 2                                         |
+|                |                                                           |
+| **Day 2 (12 Oct)** |                                                           |
+| 08:30 - 12:00  | Hacking Session 3                                         |
+| 12:00 - 13:00  | Lunch                                                     |
+| 13:00 - 15:30  | Final session of hacking                                  |
+| 15:00 - 17:00  | Team Demos                                                |
+| 17:00 - 18:00  | Closing ceremony                                          |
+| 18:00 - 19:00  | Closing networking event & snacks                         |
 
 ## Previous Qiskit camps and events  
 
