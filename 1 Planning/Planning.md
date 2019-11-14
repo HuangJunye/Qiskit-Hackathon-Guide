@@ -24,9 +24,33 @@ The best advice we can give you to start planning a Qiskit Hackathon is: find an
 After forming an organizing team, you can start a conversation with Qiskit (email: hello@qiskit.camp) to express your interest to organize a local Qiskit Hackathon. Qiskit community team will give you advice on how to proceed forward.
 
 ### Talk to University
-At the same time, you can start a conversation with relevant department or institute (quantum center, department of physics, chemistry or computer science) in your university about hosting the potential Qiskit Hackathon. Ask for their support: venue, funding and logistics, etc.
+At the same time, you can start a conversation with relevant student club, department or institute (quantum computing association, quantum center, department of physics, chemistry or computer science) in your university about hosting the potential Qiskit Hackathon. Ask for their support: venue, funding and logistics, etc.
 
 From here, you can link up Qiskit community team and the University to kickstart the official discussion!
+
+## Ideal timeline
+| Time  | Agenda                                               |
+|-------|------------------------------------------------------|
+| T-14W | Find a team                                          |
+| T-12W | Contact Qiskit & University for discussion (4 weeks) |
+| T-8W  | Discussion of legal agreement (2 weeks)              |
+|       | After signing legal agreement, the date is clear. The date should be 4-6 weeks after signing legal agreement.                                       |
+| T-6W  | Marketing planning (2 weeks)                         |
+| T-4W  | Marketing (2 weeks)                                  |
+| T-2W  | Select participants (1 week)                         |
+| T-1W  | Confirmation of participants                         |
+
+Suggestion: start contact at least 3 months in advance.
+
+- Contact Qiskit for discussion (4 weeks) T-12
+   - Initial contact
+   - Support from university and/or other sponsors
+   - fix date
+- Discussion of legal agreement (2 weeks) T-8
+   - After signing legal agreement, the date is clear. The date should be 4-6 weeks after signing legal agreement.
+- Marketing planning (1 week) T-6
+- Marketing (1 weeks) T-4
+- Select participants (1 week)
 
 ## Branding
 Event name: Qiskit Hackathon @ (City or University)
@@ -64,28 +88,7 @@ How to select participants?
 
 Tools: AirTable or Google Forms
 
-## Timeline
-Choose the date: avoid exam period and holidays
 
-- Initial Planning (T-12 weeks): fix date, sign legal agreement, venue booking, sponsorship?
-- Marketing plan (T-6 weeks)
-- Marketing (T-4 weeks before the event date)
-- Emails
-   - marketing (T-4 weeks)
-   - confirmation (T-1 weeks)
-   - reminder (T-1 day)
-
-Suggestion: start contact at least 3 months in advance.
-
-- Contact Qiskit for discussion (4 weeks) T-12
-   - Initial contact
-   - Support from university and/or other sponsors
-   - fix date
-- Discussion of legal agreement (2 weeks) T-8
-   - After signing legal agreement, the date is clear. The date should be 4-6 weeks after signing legal agreement.
-- Marketing planning (1 week) T-6
-- Marketing (1 weeks) T-4
-- Select participants (1 week)
 
 ## Pre-Hackathon Events
 1. IBM Q Experience
