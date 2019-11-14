@@ -28,7 +28,7 @@ At the same time, you can start a conversation with relevant student club, depar
 
 From here, you can link up Qiskit community team and the University to kickstart the official discussion!
 
-## Ideal timeline
+### Ideal timeline
 | Time  | Agenda                                               |
 |-------|------------------------------------------------------|
 | T-14W | Find a team                                          |
@@ -41,36 +41,31 @@ From here, you can link up Qiskit community team and the University to kickstart
 
 After signing legal agreement, the date is more clear. The date should be 4-6 weeks after signing legal agreement.  
 
-Suggestion: start contact at least 3 months in advance.
+Suggestion: start contact at least 3 months in advance and plan ahead to account for unexpected delays!
 
-## Branding
-Event name: Qiskit Hackathon @ (City or University)
-Example: Qiskit Hackathon @ SG
-
-## Topics
+## Theme
+Good hackathons usually have a theme. If this is one of the first quantum hackathons in your city, the them can just be "quantum". You can also choose to focus on one of these topics:
 - quantum games
 - quantum machine learning
 - quantum chemistry
 - quantum algorithms
 - quantum applications
 
-### Organising Committee
-roles
-- logistics (food, venue)
-- marketing (communication)
-- social media (photography, twitter, facebook, medium)
-
-Social Media
-Hashtag: #qiskithackathon + university/city or just #qiskithackathon
-Example #qiskithackathonsg for Qiskit Hackathon @ Singapore
-
-### Legal Agreement
-you need sign legal agreement with qiskit in order to receive swag and prizes provided by qiskit.
-
 ## Participants
-The first thing you need to decide is the number of participants. In the university level, 20-50 people is a reasonable size. You can think in terms of number of teams. A team consist of 3-5 people, with 4 people on average. Example, 40 people means about 10 teams. You should also take into account that there will always 10-20% people decide not to go in the last minute.
+### Number of participant
+One of the first thing you need to decide in the planning is the target number of participants. In the university level, 20-50 people is a reasonable size. You can think in terms of number of teams. For Qiskit Hackathons, a team consists of 3-5 people, with 4 people on average. For examples, 40 participants mean about 10 teams. You should also take into account that there will always be 20 to 30% people deciding not to turn up at the end.
 
-From past hackathons, we found out a diverse participants pool produce meaningful interactions and learning. There are the backgrounds of usual qiskit hackathon participants: physicists, chemists, artists, software developer, game developer, tech enthusiasts.
+There are many factors you need to consider to determine the number of participants: size of the venue, number of coaches, time in the schedule for idea pitching and final pitching, budget for booking the venue and ordering food.
+
+Suggestion: keep the hackathon small and sweet. A rule of thumb: number of participant < 8 * number of coaches. That is based on the fact that each coach can only help two teams on average to maximize the experience of participants. If you can't find enough of coaches, keep the number of particiapnts small.
+
+### Participant mixture
+If the hackathon is themed, you should invite or target the participant mixture accordingly. In general, from past hackathons experience, we found that a diverse participants pool produces meaningful interactions and learning. These are the backgrounds of usual qiskit hackathon participants:
+- scientists: physicists, chemists, biologists, engineers
+- developers: software, game, web, etc.
+- designers: art, UI/UX
+- domain experts: finance, machine learning, chemists, etc.
+
 
 How to select participants?
 1. first come first serve
