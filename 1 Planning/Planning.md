@@ -34,30 +34,20 @@ From here, you can link up Qiskit community team and the University to kickstart
 | T-14W | Find a team                                          |
 | T-12W | Contact Qiskit & University for discussion (4 weeks) |
 | T-8W  | Discussion of legal agreement (2 weeks)              |
-|       | After signing legal agreement, the date is clear. The date should be 4-6 weeks after signing legal agreement.                                       |
 | T-6W  | Marketing planning (2 weeks)                         |
 | T-4W  | Marketing (2 weeks)                                  |
 | T-2W  | Select participants (1 week)                         |
 | T-1W  | Confirmation of participants                         |
 
-Suggestion: start contact at least 3 months in advance.
+After signing legal agreement, the date is more clear. The date should be 4-6 weeks after signing legal agreement.  
 
-- Contact Qiskit for discussion (4 weeks) T-12
-   - Initial contact
-   - Support from university and/or other sponsors
-   - fix date
-- Discussion of legal agreement (2 weeks) T-8
-   - After signing legal agreement, the date is clear. The date should be 4-6 weeks after signing legal agreement.
-- Marketing planning (1 week) T-6
-- Marketing (1 weeks) T-4
-- Select participants (1 week)
+Suggestion: start contact at least 3 months in advance.
 
 ## Branding
 Event name: Qiskit Hackathon @ (City or University)
 Example: Qiskit Hackathon @ SG
 
 ## Topics
-
 - quantum games
 - quantum machine learning
 - quantum chemistry
