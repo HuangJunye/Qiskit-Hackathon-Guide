@@ -12,6 +12,18 @@ Communication: slack
 
 signup form: airtable or google forms
 
+## Pre-Hackathon Events
+1. IBM Q Experience
+1. Qiskit installation guide
+1. Coding with Qiskit series
+1. Qiskit tutorials (pick a few useful ones)
+1. Qiskit textbook (pick useful chapters)
+
+Workshop for selected topics
+1. quantum game
+1. quantum algorithms
+1. quantum machine learning
+
 ## Judging
 
 criteria
