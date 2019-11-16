@@ -1,3 +1,6 @@
+# Confirmation Email Template
+(from [Qiskit Hackathon @ Singapore](https://www.eventbrite.sg/e/qiskit-hackathon-singapore-registration-72911980697))
+## Email
 Hi Qiskitters!
 
 Thank you for signing up - we look forward to welcome you to `Qiskit Hackathon @ XXX` from `date` to `date` held at `venue`!
@@ -8,10 +11,8 @@ Participants are expected to attend both full days. If you are not able to commi
 Here are a few things you can do in preparation for the hackathon.
 
 1. Install Python and Qiskit (if you haven’t done so)
-
-Please follow this video tutorial for installation: https://www.youtube.com/watch?v=M4EkW4VwhcI
-
-or read this guide: https://github.com/qiskit-community/qiskit-hackathon-singapore-19/blob/master/preparation%26installation.md )
+  - Please follow this video tutorial for installation: https://www.youtube.com/watch?v=M4EkW4VwhcI
+  - or read this guide: https://github.com/qiskit-community/qiskit-hackathon-singapore-19/blob/master/preparation%26installation.md )
 
 1. Have a look at these learning resources for Qiskit:
   - Coding with Qiskit Youtube series: https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY
@@ -37,4 +38,5 @@ Getting to `venue`: `direction to venue`
 See you on the `date of Day 1`!
 
 Cheers,
+
 Qiskit Hackathon @ XXX Organising Committee
