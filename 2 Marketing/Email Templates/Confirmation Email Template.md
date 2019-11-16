@@ -1,5 +1,7 @@
 # Confirmation Email Template
 (from [Qiskit Hackathon @ Singapore](https://www.eventbrite.sg/e/qiskit-hackathon-singapore-registration-72911980697))
+To be sent at least 1 week before the event.
+
 ## Email
 Hi Qiskitters!
 
