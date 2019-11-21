@@ -1,5 +1,5 @@
-# Qiskit Haifa Hackathon
-Qiskit Haifa Hackathon was organized by IBM
+# Qiskit Hackathon Haifa
+Qiskit Hackathon Haifa was organized by IBM
 - Event page:
 - Github page:
 - Projects:

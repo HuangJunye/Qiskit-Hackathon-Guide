@@ -1,5 +1,5 @@
-# Qiskit Madrid Hackathon
-Qiskit Madrid Hackathon was organized by IBM
+# Qiskit Hackathon Madrid
+Qiskit Hackathon Madrid was organized by IBM
 - Event page: https://madrid.qiskit.camp/
 - Github page: https://github.com/qiskit-community/madrid.qiskit.camp
 - Projects:
