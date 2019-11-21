@@ -7,47 +7,47 @@ Thank you for taking part in the Qiskit Hackathon @ Singapore! Your feedback is 
 
 
 1. How would you describe your overall experience at Qiskit Hackathon Singapore \*
-  - 1 = Dissatisfying | Poor
-  - 2 = Somewhat Dissatisfying | Unsatisfactory
-  - 3 = Neither Satisfying/Dissatisfying | Satisfactory
-  - 4 = Somewhat Satisfying | Good
-  - 5 = Satisfying | Excellet
+   - 1 = Dissatisfying | Poor
+   - 2 = Somewhat Dissatisfying | Unsatisfactory
+   - 3 = Neither Satisfying/Dissatisfying | Satisfactory
+   - 4 = Somewhat Satisfying | Good
+   - 5 = Satisfying | Excellet
 1. What did you enjoy most about Qiskit Hackathon Singapore? \*
 
 1. Is there anything you feel needs to be improved? | What could be improved about Qiskit Hackathon Singapore? \*
 
 1. How would you describe your level of experience with Qiskit before Qiskit Hackathon Singapore? \*
-  - 1 = Beginner
-  - 2 = Intermediate
-  - 3 = Experienced
-  - 4 = Advanced
-  - 5 = Expert
+    - 1 = Beginner
+    - 2 = Intermediate
+    - 3 = Experienced
+    - 4 = Advanced
+    - 5 = Expert
  
 1. How would you describe your level of experience with Qiskit after Qiskit Hackathon Singapore? \*
-  - 1 = Beginner
-  - 2 = Intermediate
-  - 3 = Experienced
-  - 4 = Advanced
-  - 5 = Expert
+    - 1 = Beginner
+    - 2 = Intermediate
+    - 3 = Experienced
+    - 4 = Advanced
+    - 5 = Expert
 
 1. How likely are you to continue the project started at Qiskit Hackathon Singapore? \*
-  - 1= Unlikely
-  - 2= Somewhat Unlikely
-  - 3= Neutral
-  - 4= Somewhat Likely
-  - 5= Likely
+    - 1= Unlikely
+    - 2= Somewhat Unlikely
+    - 3= Neutral
+    - 4= Somewhat Likely
+    - 5= Likely
 
 1. How likely would you be to refer a friend or colleague to participate in a future Qiskit Hackathon? \*
-  - 1= Unlikely
-  - 2= Somewhat Unlikely
-  - 3= Neutral
-  - 4= Somewhat Likely
-  - 5= Likely
+    - 1= Unlikely
+    - 2= Somewhat Unlikely
+    - 3= Neutral
+    - 4= Somewhat Likely
+    - 5= Likely
 
 1. How likely would you be to refer a friend or colleague to use Qiskit? \*
-  - 1=Very Unlikely
-  - 5= Neutral
-  - 10= Very Likely  
+    - 1=Very Unlikely
+    - 5= Neutral
+    - 10= Very Likely  
 
 1. Any additional feedback, questions, or concerns? Please provide below. 
 
