@@ -12,3 +12,14 @@ Not sure if you want to organize a Qiskit hackathon? Check out [Past Qiskit Hack
 1. [Marketing](2Marketing/Marketing.md)
 1. [Running](3Running/Running.md)
 1. [Aftermath](4Aftermath/Aftermath.md)
+
+## How to contribute?
+There are many ways you can contribute to this guide.
+- correcting typos
+- adding new templates/examples (e.g. emails, posters, websites)
+- adding new content for past Qiskit hackathons (e.g. articles, videos and links to projects)
+- adding region-specific guidelines (e.g. dietary restrictions, religion-related issues, cultural differences)
+
+In general, you should start an issue for discussion before modifying the guide.
+
+Contact `Junye Huang` on Qiskit Slack workspace or via email: h.jun.ye@gmail.com if you have any doubts or questions about the guide or about organizing Qiskit hackathons.
