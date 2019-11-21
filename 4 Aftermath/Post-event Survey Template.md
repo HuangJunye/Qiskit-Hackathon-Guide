@@ -58,7 +58,8 @@ If you were to use one word to describe your experience at Qiskit Hackathon Sing
 ## Section 2: Contact Info/Future Events/Additional Comments (optional fields)
  
  If you are interested in receiving any updates or direct mail about future Qiskit Camps or Qiskit updates from the Qiskit team, please provide your email below! Or reach out to the team directly at hello@qiskit.com. You can also join the public Qiskit Slack community https://qiskit.slack.com or check out a local meetup or hackathon! 
- 
+
+
 First Name: [___________________]
 
 Last Name: [___________________]
