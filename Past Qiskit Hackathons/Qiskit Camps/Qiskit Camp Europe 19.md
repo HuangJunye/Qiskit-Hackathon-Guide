@@ -10,3 +10,4 @@
   - [Project review and interview by Catherine Klauss](https://medium.com/qiskit/project-highlight-hybrid-quantum-classical-machine-learning-e5319982e3b1)
 - Recap videos:
   - [by Qiskit](https://www.youtube.com/watch?v=in21Vaaz5-c)
+  - [by Anastasia Marchenkova](https://www.youtube.com/watch?v=Yh41irRwuMc)
