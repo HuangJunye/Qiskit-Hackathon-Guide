@@ -8,5 +8,5 @@
   - [by Farai Mazhandu](https://medium.com/@faraimazhandu/qiskit-camp-africa-2019-personal-reflections-3b347dd71df8)
   - [by Willie Macharia](https://medium.com/@williengangamacharia/qiskit-camp-africa-experience-ba7d93419986)
 - Recap videos:
-  - [by Qiskit](https://www.youtube.com/watch?v=9lfDksVdATw)- Year in Review
+  - [by Qiskit](https://www.youtube.com/watch?v=4-rIetauS1w)
   - [by Ryan Noik](https://www.youtube.com/watch?v=JAUaoDBuCU8)
