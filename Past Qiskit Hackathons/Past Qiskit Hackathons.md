@@ -7,7 +7,7 @@
  | 2019 | Feb 26 - Mar 1  | [Qiskit Camp 19](Qiskit%20Camps/Qiskit%20Camp%2019.md)        |
  | 2019 | Sep 12 - Sep 15 | [Qiskit Camp Europe 19](Qiskit%20Camps/Qiskit%20Camp%20Europe%2019.md) |
  | 2019 | Nov 18 - Nov 21 | [Qiskit Camp Asia 19](Qiskit%20Camps/Qiskit%20Camp%20Asia%2019.md)   |
- | 2019 | Dec 11 - Dec 14 | Qiskit Camp Africa 19 |
+ | 2019 | Dec 11 - Dec 14 | [Qiskit Camp Africa 19](Qiskit%20Camps/Qiskit%20Camp%20Africa%2019.md) |
 
  ## Qiskit hackathons
 

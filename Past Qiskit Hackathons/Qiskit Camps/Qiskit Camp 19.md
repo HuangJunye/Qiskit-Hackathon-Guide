@@ -25,6 +25,7 @@
   - [Methods for state preparation via Quantum compression](https://github.com/BryceFuller/qiskit_camp): State preparation via Quantum compression.
 - Recap articles:
   - [by Qiskit](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179)
+  - [by Desiree Vogt-Lee](https://desireevl.com/posts/qcamp)
 - Recap videos:
   - [by Qiskit](https://www.youtube.com/watch?v=o2DNEhAKJeo&feature=emb_title)
   - [Full Talks playlist](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqbWdrqO-EghWaNWOm_HHKF)
