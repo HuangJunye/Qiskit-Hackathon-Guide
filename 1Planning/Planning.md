@@ -57,7 +57,7 @@ One of the first thing you need to decide in the planning is the target number o
 
 There are many factors you need to consider to determine the number of participants: size of the venue, number of coaches, time in the schedule for idea pitching and final pitching, budget for booking the venue and ordering food.
 
-Suggestion: keep the hackathon small and sweet. A rule of thumb: number of participant < 8 * number of coaches. That is based on the fact that each coach can only help two teams on average to maximize the experience of participants. If you can't find enough of coaches, keep the number of particiapnts small.
+Suggestion: keep the hackathon small and sweet. A rule of thumb: number of participant < 8 * number of coaches. That is based on the fact that each coach can only help two teams on average to maximize the experience of participants. If you can't find enough of coaches, keep the number of participants small.
 
 ### Participant mixture
 If the hackathon is themed, you should invite or target the participant mixture accordingly. In general, from past hackathons experience, we found that a diverse participants pool produces meaningful interactions and learning. These are the backgrounds of usual qiskit hackathon participants:

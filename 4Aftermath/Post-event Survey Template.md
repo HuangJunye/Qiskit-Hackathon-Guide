@@ -11,7 +11,7 @@ Thank you for taking part in the Qiskit Hackathon @ Singapore! Your feedback is 
    - 2 = Somewhat Dissatisfying | Unsatisfactory
    - 3 = Neither Satisfying/Dissatisfying | Satisfactory
    - 4 = Somewhat Satisfying | Good
-   - 5 = Satisfying | Excellet
+   - 5 = Satisfying | Excellent
 1. What did you enjoy most about Qiskit Hackathon Singapore? \*
 
 1. Is there anything you feel needs to be improved? | What could be improved about Qiskit Hackathon Singapore? \*
