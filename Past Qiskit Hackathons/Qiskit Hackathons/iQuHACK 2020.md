@@ -9,7 +9,7 @@
   - [warmboosh](https://github.com/iQuHACK/warmboosh): Demonstration of efficiently implemented QEC schemes with only two extra qubits in Qiskit
   - [Qryptos](https://github.com/iQuHACK/Qryptos): Quantum Framework for Secret-Shared Output Secure Assisted Computation
   - [Duckfebugging](https://github.com/iQuHACK/Duckfebugging): Compression and Teleportation Protocol
-  - [QAOA Benchmarking](https://github.com/iQuHACK/QAOA-Benchmarking): 
+  - [QAOA Benchmarking](https://github.com/iQuHACK/QAOA-Benchmarking): Solving Max-Cut using QAOA in graphs with triangles
   - [QuhackMan](https://github.com/iQuHACK/QuhacMan): A Quantum Two-player PacMan Game
   - [Group 8](https://github.com/iQuHACK/2020_group8): Quantum simultion and entanglement entropy measurement of 2D transverse field Ising model
   - [Group 9](https://github.com/iQuHACK/2020_group9): A game of quantum roulette based on quantum teleportation and decoherence
