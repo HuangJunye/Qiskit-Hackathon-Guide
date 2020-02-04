@@ -18,4 +18,4 @@
  | 2019 | 10 Oct - 11 Oct | [Qiskit Hackathon @ Singapore](Qiskit%20Hackathons/Qiskit%20Hackathon%20%40%20Singapore.md)                   | Centre for Quantum Technology | Huang Junye, Anurag Saha Roy, Evon Tan |
  | 2019 | 18 Oct - 19 Oct | [MSU-IBM Quantum Computing Bootcamp with Qiskit](Qiskit%20Hackathons/MSU-IBM%20Quantum%20Computing%20Bootcamp%20with%20Qiskit.md) | Michigan State University     | Ryan LaRose                            |
  | 2019 | 13 Nov - 16 Nov | [CSS Qiskit Hackathon](Qiskit%20Hackathons/CSS%20Qiskit%20Hackathon.md)                           | University of Birmingham      | Cristian Calauz                        |
- | 2020 | 31 Jan - 2 Feb | [MIT iQuHACK](Qiskit%20Hackathons/iQuHACK%202020.md) | MIT | iQuISE
+ | 2020 | 31 Jan - 2 Feb | [MIT iQuHACK](Qiskit%20Hackathons/iQuHACK%202020.md) | MIT | [iQuISE](https://www.iquise.mit.edu/leadership/)
