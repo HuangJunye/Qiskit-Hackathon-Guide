@@ -17,5 +17,7 @@
   - [QUasiCoders](https://github.com/iQuHACK/QUasiCoders): Circuit Decomposition for Hardware-Efficient VQE
   - [iQuack](https://github.com/iQuHACK/iQuack): Solving the Travelling Salesman Problem with Quantum Optimization and the Google Maps API
   - [GoodAibling](https://github.com/iQuHACK/GoodAibling): Quantum Minesweeper
+- Recap videos:
+  - [by MIT RLE](https://vimeo.com/394229554) 
 - Recap articles:
   
