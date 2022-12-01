@@ -21,7 +21,7 @@ But don't be afraid. This guide is here to help you settle everything for a succ
 The best advice we can give you to start planning a Qiskit Hackathon is: find an organizing team. You should look for at least one person, who is equally passionate about quantum computing as yourself to form an organizing team. Having a group to rely on, delegate work to, and bounce ideas between becomes invaluable once you get into the nitty gritty details.
 
 ### Talk to Qiskit
-After forming an organizing team, you can start a conversation with Qiskit (email: hello@qiskit.camp) to express your interest to organize a local Qiskit Hackathon. Qiskit community team will give you advice on how to proceed forward.
+After forming an organizing team, you can start a conversation with Qiskit ([fill the event request form](https://airtable.com/shrRP0Td8TN4ttlFx)) to express your interest to organize a local Qiskit Hackathon. Qiskit community team will give you advice on how to proceed forward.
 
 ### Talk to University
 At the same time, you can start a conversation with relevant student club, department or institute (quantum computing association, quantum center, department of physics, chemistry or computer science) in your university about hosting the potential Qiskit Hackathon. Ask for their support: venue, funding and logistics, etc.
